@@ -5,10 +5,8 @@ require_relative 'task.rb'
 class List
   attr_reader :tasks
 
-  def initialize
+  def initialize()
     @tasks = to_task_obj
   end
-
-
 
 end

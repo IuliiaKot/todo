@@ -1,0 +1,13 @@
+description,status,tags,created_at,completed_at
+Walk the cat,true,weekend weekend,2016-02-05 15:24:52 -0500,2016-03-31 23:29:18 -0400
+Go to the gym,true,"",2016-02-05 15:24:52 -0500,2016-03-31 22:58:35 -0400
+Buy groceries for the week,true,"",2016-02-05 15:24:52 -0500,2016-03-31 23:29:30 -0400
+Call Penelope,false,"",2016-02-05 15:24:52 -0500,""
+Finish code challenge,true,tag tag vacation home,2016-02-05 15:24:52 -0500,2016-03-31 22:58:38 -0400
+Book hotel for vacation,false,"",2016-02-05 15:24:52 -0500,""
+Call insurance company,false,"",2016-02-05 15:24:52 -0500,2016-02-05 16:24:19 -0500
+Read Ruby Under a Microscope,false,ruby,2016-02-05 15:24:52 -0500,""
+Book eye appointment for new glasses,false,book,2016-02-05 15:24:52 -0500,""
+Learn how to pick locks,false,"",2016-02-05 15:24:52 -0500,""
+Find good recipe for dinner party,false,"",2016-02-05 15:24:52 -0500,2016-02-05 16:54:50 -0500
+new_task_today,true,[],2016-03-31 23:21:01 -0400,2016-03-31 23:29:15 -0400
